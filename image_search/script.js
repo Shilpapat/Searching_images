@@ -1,4 +1,4 @@
-const access_key = "MGW2fquSTdXjATRuoueEjXuEZYU_8vAfAX-EDNc2sVg";
+const access_key = "Your access key";//you have to put your access key here as I have mentioned how to get the key in README.md file
 const formElement = document.getElementById("search-form");
 const inputElement = document.getElementById("search-input");
 const searchResult = document.getElementById("search-results");
